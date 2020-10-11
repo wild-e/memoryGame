@@ -17,13 +17,13 @@ si les noms des deux images sont différentes elle reprennent leur premier état
   <body>
 
     <div class="memoryParent">
-        <div class="card">
+        <div class="card one">
         </div>
-        <div class="card">
+        <div class="card two">
         </div>
-        <div class="card">
+        <div class="card three">
         </div>
-        <div class="card">
+        <div class="card four">
         </div>
         <div class="card">
         </div>
@@ -51,5 +51,6 @@ si les noms des deux images sont différentes elle reprennent leur premier état
         </div>
     </div>
 
+    <script src="./memory.js"></script>
   </body>
 </html>
